@@ -91,7 +91,7 @@ TumorSense-AI/
 ### 1️⃣ Clone repository
 
 ```bash
-git clone https://github.com/your-username/TumorSense-AI.git
+git clone (https://github.com/sudha1608/brain-tumor-ai/tree/main)
 cd TumorSense-AI
 ```
 
@@ -137,7 +137,7 @@ Always consult certified medical professionals.
 ## 👨‍💻 Author
 
 SUDHA S
-AI Developer | Full Stack Learner | Deep Learning Enthusiast
+AI Developer | Deep Learning Enthusiast
 
 Built as final-year AI project integrating:
 
